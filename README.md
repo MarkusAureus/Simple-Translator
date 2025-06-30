@@ -1,7 +1,3 @@
-Here's a `README.md` for your "Simple Translator" project. This file will give users and potential employers a clear understanding of the application's purpose, how it works, and how to get started.
-
----
-
 # Simple Translator
 
 Simple Translator is a Python-based GUI application for translating text between different languages using Google’s translation services. Built with Tkinter, this user-friendly tool allows users to input text in any language, select a target language, and instantly view the translated text.
@@ -63,6 +59,3 @@ Simple Translator is a Python-based GUI application for translating text between
 ## License
 This project is licensed under the MIT License. See the [LICENSE] file for details.
 
----
-
-This `README.md` provides a clear overview of the project for users and potential employers. Good luck with your project!
